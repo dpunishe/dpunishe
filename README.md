@@ -12,7 +12,7 @@
 
  ### My_progress:
 
-![dpunishe's stats](https://badge42.herokuapp.com/api/stats/dpunishe)
+[![dpunishe's 42 stats](https://badge42.vercel.app/api/v2/cl1qgqj6i001609mn9q4eeejy/stats?cursusId=21&coalitionId=103)](https://github.com/JaeSeoKim/badge42)
 
 <!-- 
 
